@@ -1,4 +1,5 @@
 🧑‍🍳 App Features Overview
+
       🔐 Authentication with email verification using Clerk
       📝 Signup & Login flows with 6-digit email code
       🏠 Home Screen that shows your current balance & past transactions
